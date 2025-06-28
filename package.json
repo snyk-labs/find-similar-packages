@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ksingh8081/find-similar-packages#readme",
   "dependencies": {
     "fetch-package-keywords": "^1.0.0",
-    "mocha": "^5.0.1",
+    "mocha": "^5.2.0",
     "top-packages-category-wise": "^1.0.1"
   }
 }
